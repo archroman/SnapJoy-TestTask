@@ -1,13 +1,12 @@
 using System.Collections.Generic;
 using _ProjectFiles.Dialogue.Scripts;
 using _ProjectFiles.Interaction.Interfaces;
-using _ProjectFiles.Interaction.Scripts;
 using _ProjectFiles.Items.Scripts;
 using _ProjectFiles.Player.Scripts;
 using _ProjectFiles.Quests.Scripts;
 using UnityEngine;
 
-namespace _ProjectFiles.NPC
+namespace _ProjectFiles.NPC.Scripts
 {
     internal sealed class NPCInteractable : MonoBehaviour, IInteractable
     {

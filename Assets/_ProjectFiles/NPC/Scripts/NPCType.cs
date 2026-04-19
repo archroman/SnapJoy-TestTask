@@ -1,4 +1,4 @@
-namespace _ProjectFiles.NPC
+namespace _ProjectFiles.NPC.Scripts
 {
     public enum NPCType
     {
